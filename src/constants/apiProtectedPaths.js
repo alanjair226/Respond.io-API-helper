@@ -8,6 +8,7 @@ const RESPOND_IO_PROTECTED_PATHS = [
     '/operations/chooseNodo',
     '/operations/removeLada',
     '/operations/multiply',
+    '/'
 ];
 
 module.exports = {
